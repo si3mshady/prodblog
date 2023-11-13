@@ -3,34 +3,13 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hey there! I'm Elliott Arnold, and this is my little corner of the internet. By day, I'm knee-deep in the world of AWS, Site Reliability Engineering, and all things Cloud Tech. I have a soft spot for Entrepreneurship, and my curiosity extends to the skies with Drones and AI, especially large language models (LLM).
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Outside the tech buzz, you'll find me chasing the perfect swing on the golf course, casting lines for the next big catch, jet-setting to new destinations, and sharing moments with some four-legged pals. Join me as I navigate the realms of passion, innovation, and the simple joys of life. It's a bit of tech, a dash of leisure, and a whole lot of exploration!
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+If you resonate with my journey, feel free to connect and share your thoughts!
