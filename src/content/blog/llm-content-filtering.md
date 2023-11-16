@@ -28,7 +28,7 @@ In this era of advanced chat applications, powered by models like GPT-NeoXT-Chat
 
 In an upcoming post, I will demonstrate this concept using a custom application. Stay tuned!
 
-hashtag#youtube - [Watch the Video](https://lnkd.in/dsBfC3uS)
+hashtag#youtube - [Watch the Video](https://youtu.be/iuY2fU6qVSA)
 
 What are your thoughts on this issue?
 
